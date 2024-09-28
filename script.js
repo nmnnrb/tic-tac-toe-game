@@ -20,8 +20,8 @@ const enablebox =() =>{
         document.querySelector(".winner").style.backgroundColor = "transparent";
     }
 }
-// let O = prompt("Enter First player")
-// let X = prompt("Enter Second player")
+let O = prompt("Enter First player")
+let X = prompt("Enter Second player")
 resetbtn.addEventListener("click" , enablebox);
 
 boxes.forEach( (box) => {
