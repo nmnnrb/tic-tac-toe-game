@@ -1,0 +1,55 @@
+Tic-Tac-Toe Game
+Overview
+
+This Tic-Tac-Toe game is a simple web application built using HTML, CSS, and JavaScript. It was created to enhance my grasp of JavaScript and to become more familiar with web development concepts.
+Features
+
+    Two-Player Mode: Play against a friend by taking turns marking spaces on a grid.
+    Win Condition Detection: The game checks for winning combinations and announces the winner.
+    Draw Detection: The game detects if all boxes are filled without a winner and announces a draw.
+    Reset Functionality: Players can easily reset the game to start over.
+
+Technologies Used
+
+    HTML: For structuring the game interface.
+    CSS: For styling the game elements and enhancing the user experience.
+    JavaScript: For implementing game logic, event handling, and interactivity.
+
+Getting Started
+Prerequisites
+
+    A web browser (e.g., Chrome, Firefox).
+    Basic understanding of HTML, CSS, and JavaScript.
+
+How to Run the Game
+
+    Clone the repository or download the files.
+    Open the index.html file in your web browser.
+    Follow the on-screen prompts to enter player names and start playing.
+
+Code Structure
+
+    index.html: Contains the HTML structure of the game.
+    style.css: Includes the CSS styles for the game layout and design.
+    script.js: Contains the JavaScript code that handles game logic, including player turns, win detection, and reset functionality.
+
+Learning Experience
+
+Building this game allowed me to:
+
+    Gain hands-on experience with JavaScript and improve my coding skills.
+    Understand the importance of event handling and DOM manipulation.
+    Learn how to implement game logic and manage application state.
+    Explore basic CSS styling techniques to create a visually appealing user interface.
+
+Future Improvements
+
+    Add an AI opponent for single-player mode.
+    Implement different difficulty levels for the AI.
+    Enhance the visual design with animations and transitions.
+    Optimize the code for better readability and performance.
+
+Acknowledgments
+
+    Inspired by classic Tic-Tac-Toe gameplay.
+    Resources from online tutorials and documentation.
